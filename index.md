@@ -61,5 +61,5 @@ If this policy changes, the updated version will be posted at this URL with a ne
 ## Contact
 
 Publisher: **Enohp**
-For privacy questions, contact: _add your support email here_
+For privacy questions, contact: [scanocr@outlook.com](mailto:scanocr@outlook.com)
 
