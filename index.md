@@ -4,25 +4,26 @@ title: Scanner OCR — Privacy Policy
 
 # Scanner OCR — Privacy Policy
 
-_Last updated: 30 October 2026_
+_Last updated: 25 November 2026_
 
-Scanner OCR ("the app") is an application for Windows and macOS that scans paper
-documents from your printer/scanner and turns them into searchable PDFs using
-on-device Optical Character Recognition (OCR). This policy explains what the app
-does and does not do with your data.
+Scanner OCR ("the app") scans paper documents from your printer/scanner and turns
+them into searchable PDFs using on-device Optical Character Recognition (OCR). This
+policy applies to the app on every platform where it is available, and explains what
+the app does and does not do with your data. Where a feature exists only on some
+platforms, this policy says so.
 
 ## Summary
 
 **Scanner OCR does not collect, transmit, sell, or share any personal data.**
-Everything you scan stays on your computer. There are no user accounts, no
+Everything you scan stays on your device. There are no user accounts, no
 advertising, and no analytics or telemetry.
 
 ## What the app processes, and where
 
 | Data | Where it is processed | Leaves your device? |
 |------|----------------------|---------------------|
-| Scanned images, photos and PDFs you open | On your computer | No |
-| Recognized text (OCR) | On your computer (Tesseract, PaddleOCR) | No |
+| Scanned images, photos and PDFs you open | On your device | No |
+| Recognized text (OCR) | On your device (Tesseract, PaddleOCR) | No |
 | AI-suggested file names (Windows, Copilot+ PCs only) | On your PC (on-device Phi Silica model) | No |
 | Saved PDFs / images | Saved to the folder you choose | No |
 
@@ -52,14 +53,14 @@ document contents or personal information:
   a single number; it is only readable by the app on your devices and is never sent
   to us.
 
-We receive no personal information about you from either store beyond the
+We receive no personal information about you from any store beyond the
 aggregate sales reports the stores provide to all developers.
 
 ## Data storage
 
 Scanned documents and recognized text are stored only where you choose to save
 them on your own device. The app keeps a small local log file (for
-troubleshooting) and your app settings on your computer. Neither contains your
+troubleshooting) and your app settings on your device. Neither contains your
 document contents and neither is transmitted anywhere.
 
 ## Children's privacy
